@@ -7,7 +7,7 @@ Project Overview
 1.	Model your data by creating tables in Apache Cassandra to run queries. 
 2.	Develop ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables.
 
-#<h1>Datasets </h1>
+# <h1> Datasets </h1>
 For this project, you'll be working with one dataset: event_data. The directory of CSV files partitioned by date. Here are examples of filepaths to two files in the dataset:
 event_data/2018-11-08-events.csv
 event_data/2018-11-09-events.csv
